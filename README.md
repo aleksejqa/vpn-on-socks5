@@ -10,4 +10,7 @@
 {ip-proxy} - socks5 proxy + :port<br>
 
 VPN.bat start vpn interface on socks<br>
+
+wintun.dll - x64! windows vpn interface 
 <br><br><br>
+
